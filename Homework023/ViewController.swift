@@ -9,6 +9,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
+    @IBAction func startOrStop(_ sender: UISwitch) {
+        if sender.isOn == true{
+            activityIndicator.startAnimating()
+        }else{
+            activityIndicator.stopAnimating()
+        }
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.

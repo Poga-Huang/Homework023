@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D681A20B273A154F008FE846 /* ProgressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D681A20A273A154F008FE846 /* ProgressViewController.swift */; };
 		D6DAF9EB2739FE010037EFC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DAF9EA2739FE010037EFC5 /* AppDelegate.swift */; };
 		D6DAF9ED2739FE010037EFC5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DAF9EC2739FE010037EFC5 /* SceneDelegate.swift */; };
 		D6DAF9EF2739FE010037EFC5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6DAF9EE2739FE010037EFC5 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D681A20A273A154F008FE846 /* ProgressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewController.swift; sourceTree = "<group>"; };
 		D6DAF9E72739FE010037EFC5 /* Homework023.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework023.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6DAF9EA2739FE010037EFC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6DAF9EC2739FE010037EFC5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				D6DAF9EA2739FE010037EFC5 /* AppDelegate.swift */,
 				D6DAF9EC2739FE010037EFC5 /* SceneDelegate.swift */,
 				D6DAF9EE2739FE010037EFC5 /* ViewController.swift */,
+				D681A20A273A154F008FE846 /* ProgressViewController.swift */,
 				D6DAF9F02739FE010037EFC5 /* Main.storyboard */,
 				D6DAF9F32739FE0B0037EFC5 /* Assets.xcassets */,
 				D6DAF9F52739FE0B0037EFC5 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				D6DAF9EF2739FE010037EFC5 /* ViewController.swift in Sources */,
 				D6DAF9EB2739FE010037EFC5 /* AppDelegate.swift in Sources */,
 				D6DAF9ED2739FE010037EFC5 /* SceneDelegate.swift in Sources */,
+				D681A20B273A154F008FE846 /* ProgressViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
